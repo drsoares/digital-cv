@@ -1,8 +1,8 @@
 # Diogo Soares
+![Diogo](/assets/img/diogo.jpg)
 
 I am a passionate softwareengineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications. Currently working as a contractor.
 
-![Diogo](/assets/img/diogo.jpg)
 |||
 | ----------- | ----------- |
 | github | [drsoares](https://github.com/drsoares) |
