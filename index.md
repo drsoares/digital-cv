@@ -2,13 +2,14 @@
 
 I am a passionate softwareengineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications. Currently working as a contractor.
 
+![Diogo](/assets/img/diogo.jpg)
 |||
 | ----------- | ----------- |
-| :github: | [drsoares](https://github.com/drsoares) |
-| :linkedin: | [drcsoares](https://www.linkedin.com/in/drcsoares) |
-| :email: | diogo103@gmail.com |
-| :phone: | +351 916752957 |
-| :pt: | Porto |
+| github | [drsoares](https://github.com/drsoares) |
+| linkedin | [drcsoares](https://www.linkedin.com/in/drcsoares) |
+| email | diogo103@gmail.com |
+| phone | +351 916752957 |
+| pt | Porto |
 
 ## Education
 
