@@ -1,3 +1,5 @@
-theme: jekyll-theme-hacker
-title: 💻✒️📄🌟
-description: Diogo Soares's CV
+#theme: jekyll-theme-hacker
+#title: 💻✒️📄🌟
+#description: Diogo Soares's CV
+
+markdown:   kramdown
