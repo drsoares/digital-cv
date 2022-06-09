@@ -6,11 +6,11 @@ I am a passionate softwareengineer, always eager to develop new skills. I can de
 <table>
   <tr>
     <td>github</td>
-    <td>[drsoares](https://github.com/drsoares)</td>
+    <td><a href="[url](https://github.com/drsoares)">drsoares</a></td>
   </tr>
     <tr>
     <td>linkedin</td>
-    <td>[drcsoares](https://www.linkedin.com/in/drcsoares)</td>
+      <td><a href="[url](https://www.linkedin.com/in/drcsoares)">drcsoares</a></td>
   </tr>
     <tr>
     <td>email</td>
