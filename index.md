@@ -2,6 +2,7 @@
 
 I am a passionate softwareengineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications.
 
+|||
 | ----------- | ----------- |
 | github | [drsoares](https://github.com/drsoares) |
 | linkedin | [drcsoares](https://www.linkedin.com/in/drcsoares) |
