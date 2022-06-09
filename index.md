@@ -1,7 +1,7 @@
 # Diogo Soares
 ![Diogo](/assets/img/diogo.jpg)
 
-I am a passionate softwareengineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications. Currently working as a contractor.
+I am a passionate software engineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications. Currently working as a contractor.
 
 <table>
   <tr>
