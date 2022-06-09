@@ -3,14 +3,6 @@
 
 I am a passionate softwareengineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications. Currently working as a contractor.
 
-|||
-| ----------- | ----------- |
-| github |  |
-| linkedin |  |
-| email | diogo103@gmail.com |
-| phone | +351 916752957 |
-| pt | Porto |
-
 <table>
   <tr>
     <td>github</td>
@@ -33,6 +25,7 @@ I am a passionate softwareengineer, always eager to develop new skills. I can de
     <td>Porto, PT</td>
   </tr>
 </table>
+
 ## Education
 
 ### **Universidade de Aveiro** `2006 - 2012`
