@@ -8,15 +8,7 @@ email:
 
 # Diogo Soares
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
-
-{% include cv-contact.html %}
+stuff
 
 ## Education
 
@@ -33,8 +25,6 @@ Aveiro, Portugal
 ### [**Functional Programming Principles in Scala at Coursera**](https://www.coursera.org/account/accomplishments/certificate/SJX5MJ4MKL)
 ### [**Kotlin for Java Developers at Coursera**](https://www.coursera.org/account/accomplishments/certificate/6ZN3PQY5UUGZ)
 ### [**M101J: MongoDB for Java Developers at MongoDB, Inc**](https://university.mongodb.com/course_completion/9740179520cf4c129c25f6e63e94a285)
-
----
 
 ## Experience
 
@@ -75,6 +65,7 @@ _Backend Developer_<br>
 Joined the company to work on a brand new project for the major cinema theater holding in Portugal. Project included building a brand new ticketing solution for many platforms (in person, mobile, web, etc...) and managing the bar stocks as well.
 Technologies: Java7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing.
 
+---
 <!-- ### Footer
 
 Last updated: June 2022 -->
