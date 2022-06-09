@@ -1,23 +1,20 @@
 # Diogo Soares
 
-I am a passionate softwareengineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications.
+I am a passionate softwareengineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications. Currently working as a contractor.
 
 |||
 | ----------- | ----------- |
-| github | [drsoares](https://github.com/drsoares) |
+| github |  | [drsoares](https://github.com/drsoares) 
 | linkedin | [drcsoares](https://www.linkedin.com/in/drcsoares) |
-| mail | diogo103@gmail.com |
-| phone | +351 916752957 |
+| :email: | diogo103@gmail.com |
+| :phone: | +351 916752957 |
+| :pt: | Porto |
 
 ## Education
 
 ### **Universidade de Aveiro** `2006 - 2012`
 
-```
-Aveiro, Portugal
-```
-
-- Master in Computer Science Engineering and Telematics
+Master in Computer Science Engineering and Telematics
 
 ## Experience
 
