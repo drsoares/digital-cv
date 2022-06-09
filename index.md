@@ -6,7 +6,7 @@ I am a passionate softwareengineer, always eager to develop new skills. I can de
 | ----------- | ----------- |
 | github | [drsoares](https://github.com/drsoares) |
 | linkedin | [drcsoares](https://www.linkedin.com/in/drcsoares) |
-| mail | mailto:diogo103@gmail.com |
+| mail | diogo103@gmail.com |
 | phone | +351916752957 |
 
 ## Education
