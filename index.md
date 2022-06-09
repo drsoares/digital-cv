@@ -40,19 +40,19 @@ _Senior Software Engineer_<br>
 Joined Catalog Complex Products teams to develop a set of microservices to enable capabilities to manage complex parts and pre generated parts on the current catalog.
 Technologies: Java11, SQL Server, GCP, GKE.
 
-### **Blip.pt (Flutter Group)** `2019.11 - 2022.2`
+### **Blip.pt (Flutter Group)** `2019.11 - 2022.02`
 
 _Senior Site Reliability Engineer_<br>
 Joined a SRE (Site Reliability Engineering) Team to work on a RUM (Realtime User Monitoring) project, and then moved permanently into the team to work on many services to support observability for the entire company.
 Technologies: Java8, Golang, Python, Javascript, Hbase, Cassandra, Openstack, GCP.
 
-### **Blip.pt (Flutter Group)** `2017.3 - 2019.11`
+### **Blip.pt (Flutter Group)** `2017.03 - 2019.11`
 
 _Senior Backend Developer_<br>
 Join a Feeds Platforms team to develop a stream processing platform in order to ingest game incidents from several sports provided by several third parties. This included building microservices to interact with these third parties and send them to kafka stream and our storm topologies would pick them and digest them in order to update the prices on the web site with the lowest latency possible.
 Technologies: Java 8, Scala, Spring Maven, Apache Storm, Kafka, Cassandra, Zookeeper, RabbitMQ, Protobuf.
 
-### **Blip.pt (Flutter Group)** `2015.01 - 2017.3`
+### **Blip.pt (Flutter Group)** `2015.01 - 2017.03`
 
 _Backend Developer_<br>
 Joined the company as backend developer to start splitting larger services into more granular
