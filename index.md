@@ -5,12 +5,34 @@ I am a passionate softwareengineer, always eager to develop new skills. I can de
 
 |||
 | ----------- | ----------- |
-| github | [drsoares](https://github.com/drsoares) |
-| linkedin | [drcsoares](https://www.linkedin.com/in/drcsoares) |
+| github |  |
+| linkedin |  |
 | email | diogo103@gmail.com |
 | phone | +351 916752957 |
 | pt | Porto |
 
+<table>
+  <tr>
+    <td>github</td>
+    <td>[drsoares](https://github.com/drsoares)</td>
+  </tr>
+    <tr>
+    <td>linkedin</td>
+    <td>[drcsoares](https://www.linkedin.com/in/drcsoares)</td>
+  </tr>
+    <tr>
+    <td>email</td>
+    <td>diogo103@gmail.com</td>
+  </tr>
+  <tr>
+    <td>phone</td>
+    <td>+351 916752957</td>
+  </tr>
+  <tr>
+    <td>location</td>
+    <td>Porto, PT</td>
+  </tr>
+</table>
 ## Education
 
 ### **Universidade de Aveiro** `2006 - 2012`
