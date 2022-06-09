@@ -1,14 +1,12 @@
----
-layout: cv
-title: Diogo Soares
-email:
-  url: mailto:diogo103@gmail.com
-  text: diogo103@gmail.com
----
-
 # Diogo Soares
 
-{% include cv-contact.html %}
+I am a passionate softwareengineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications.
+
+| ----------- | ----------- |
+| github | [drsoares](https://github.com/drsoares) |
+| linkedin | [drcsoares](https://www.linkedin.com/in/drcsoares) |
+| mail | [diogo103@gmail.com]mailto:diogo103@gmail.com |
+| phone | +351916752957 |
 
 ## Education
 
