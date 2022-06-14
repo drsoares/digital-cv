@@ -62,7 +62,7 @@ Technologies: Java7/8, Spring, Maven, Redis, Hazelcast, ActiveMQ, Kafka, MySQL, 
 ### **grupo@work** `2013.12 - 2014.12`
 
 _Backend Developer_<br>
-Joined the company to work on a brand new project for the major cinema theater holding in Portugal. Project included building a brand new ticketing solution for many platforms (in person, mobile, web, etc...) and managing the bar stocks as well.
+Joined the company to work on a brand new project for the major cinema theater holding in Portugal. Project included building a brand new ticketing solution for many platforms (in person, mobile, web, etc...) and managing the bar inventory as well.
 Technologies: Java7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing.
 
 ### **PT Inovação** `2012.02 - 2013.12`
