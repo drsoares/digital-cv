@@ -69,7 +69,7 @@ Technologies: Java7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, Symm
 
 _Junior Backend Developer_<br>
 Joined the company as a Junior Backend Developer to work on several products from the company, most of company customers were mobile telecomunications companies. 
-Technologies used - Java 6, Scala, Maven, PlayFramework, Struts2, Jboss, Netty, Oracle 11g.
+Technologies: Java 6, Scala, Maven, PlayFramework, Struts2, Jboss, Netty, Oracle 11g.
 
 ## Courses
 
