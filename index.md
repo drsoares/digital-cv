@@ -34,7 +34,7 @@ Master in Computer Science Engineering and Telematics
 
 ## Experience
 
-### **Wayfair** `2022.3 - current`
+### **Wayfair** `2022.03 - current`
 
 _Senior Software Engineer_<br>
 Joined Catalog Complex Products teams to develop a set of microservices to enable capabilities to manage complex parts and pre generated parts on the current catalog.
@@ -67,9 +67,9 @@ Technologies: Java7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, Symm
 
 ### **PT Inovação** `2012.02 - 2013.12`
 
-_Backend Developer_<br>
-Joined the company to work on a brand new project for the major cinema theater holding in Portugal. Project included building a brand new ticketing solution for many platforms (in person, mobile, web, etc...) and managing the bar stocks as well.
-Technologies: Java7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing.
+_Junior Backend Developer_<br>
+Joined the company as a Junior Backend Developer to work on several products from the company, most of company customers were mobile telecomunications companies. 
+Technologies used - Java 6, Scala, Maven, PlayFramework, Struts2, Jboss, Netty, Oracle 11g.
 
 ## Courses
 
