@@ -43,7 +43,7 @@ Technologies: Java11, SQL Server, GCP, GKE.
 ### **Blip.pt (Flutter Group)** `2019.11 - 2022.02`
 
 _Senior Site Reliability Engineer_<br>
-Joined a SRE (Site Reliability Engineering) Team to work on a RUM (Realtime User Monitoring) project, and then moved permanently into the team to work on many services to support observability for the entire company.
+Joined a SRE (Site Reliability Engineering) Team to work on a RUM (Real User Monitoring) project, and then moved permanently into the team to work on many services to support observability for the entire company.
 Technologies: Java8, Golang, Python, Javascript, Hbase, Cassandra, Openstack, GCP.
 
 ### **Blip.pt (Flutter Group)** `2017.03 - 2019.11`
