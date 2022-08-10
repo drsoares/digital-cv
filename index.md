@@ -49,7 +49,7 @@ Technologies: Java8, Golang, Python, Javascript, Hbase, Cassandra, Openstack, GC
 ### **Blip.pt (Flutter Group)** `2017.03 - 2019.11`
 
 _Senior Backend Developer_<br>
-Join a Feeds Platforms team to develop a stream processing platform in order to ingest game incidents from several sports provided by several third parties. This included building microservices to interact with these third parties and send them to kafka stream and our storm topologies would pick them and digest them in order to update the prices on the web site with the lowest latency possible.
+Joined a Feeds Platforms team to develop a stream processing platform in order to ingest game incidents from several sports provided by several third parties. This included building microservices to interact with these third parties and send them to kafka stream and our storm topologies would pick them and digest them in order to update the prices on the web site with the lowest latency possible.
 Technologies: Java 8, Scala, Spring Maven, Apache Storm, Kafka, Cassandra, Zookeeper, RabbitMQ, Protobuf.
 
 ### **Blip.pt (Flutter Group)** `2015.01 - 2017.03`
