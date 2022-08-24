@@ -1,7 +1,9 @@
 # Diogo Soares
 ![Diogo](/assets/img/diogo.jpg)
 
-I am a passionate software engineer, always eager to develop new skills. I can describe myself as capable of developing scalable, resilient and high-performant applications. Currently working as a contractor.
+Passionate software engineer, proficient in building highly scalable, resilient and high-performant applications. 
+Interested in backend development, infra-automation and observability, challenging tasks and learning new tech and tools.
+Currently working as contractor.
 
 <table>
   <tr>
@@ -55,8 +57,7 @@ Technologies: Java 8, Scala, Spring Maven, Apache Storm, Kafka, Cassandra, Zooke
 ### **Blip.pt (Flutter Group)** `2015.01 - 2017.03`
 
 _Backend Developer_<br>
-Joined the company as backend developer to start splitting larger services into more granular
-pieces.
+Joined the company as backend developer to start splitting larger services into more granular pieces.
 Technologies: Java7/8, Spring, Maven, Redis, Hazelcast, ActiveMQ, Kafka, MySQL, Couchbase.
 
 ### **grupo@work** `2013.12 - 2014.12`
