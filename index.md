@@ -3,7 +3,6 @@
 
 Passionate software engineer, proficient in building highly scalable, resilient and high-performant applications. 
 Interested in backend development, infra-automation and observability, challenging tasks and learning new tech and tools.
-Currently working as contractor.
 
 <table>
   <tr>
