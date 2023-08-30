@@ -36,7 +36,7 @@ Master in Computer Science Engineering and Telematics
 
 ## Experience
 
-### **Wayfair** `2023.01 - current`
+### **Five9** `2023.01 - current`
 
 _Senior Software Engineer_<br>
 Currently working on a Platfrom Services team which has the responsability to develop Core Foundational Reusable Libraries for accessing GCP and other 3rd Party SaaS/resources.
