@@ -36,11 +36,17 @@ Master in Computer Science Engineering and Telematics
 
 ## Experience
 
-### **Wayfair** `2022.03 - current`
+### **Wayfair** `2023.01 - current`
 
 _Senior Software Engineer_<br>
-Joined Catalog Complex Products teams to develop a set of microservices to enable capabilities to manage complex parts and pre generated parts on the current catalog.
-Technologies: Java11, SQL Server, GCP, GKE.
+Currently working on a Platfrom Services team which has the responsability to develop Core Foundational Reusable Libraries for accessing GCP and other 3rd Party SaaS/resources.
+Technologies: Java17, SpringBoot, gradle, GCP(GKE, Datastore, BigQuery, PubSub).
+
+### **Wayfair** `2022.03 - 2023.01`
+
+_Senior Software Engineer_<br>
+Joined Catalog Complex Products teams to develop a set of microservices to enable capabilities to manage complex parts and pre generated parts on the products catalog.
+Technologies: Java11, SpringBoot, SQL Server, GCP(GKE, BigQuery).
 
 ### **Blip.pt (Flutter Group)** `2019.11 - 2022.02`
 
