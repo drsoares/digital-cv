@@ -2,7 +2,7 @@
 ![Diogo](/assets/img/diogo.jpg)
 
 Passionate software engineer, proficient in building highly scalable, resilient and high-performant applications. 
-Interested in backend development, infra-automation and observability, challenging tasks and learning new tech and tools.
+Interested in backend development, infra-automation and observability, challenging tasks and eager to learn.
 
 <table>
   <tr>
