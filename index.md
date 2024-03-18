@@ -70,7 +70,7 @@ _Backend Developer_<br>
 Joined the company to work on a brand new project for the major cinema theater holding in Portugal. Project included building a brand new ticketing solution for many platforms (in person, mobile, web, etc...) and managing the bar inventory as well.
 Technologies: Java7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing.
 
-### **PT Inovação** `2012.02 - 2013.12`
+### **PT Inovação** `2013.02 - 2013.12`
 
 _Junior Backend Developer_<br>
 Joined the company as a Junior Backend Developer to work on several products from the company, most of company customers were mobile telecomunications companies. 
