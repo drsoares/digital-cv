@@ -13,7 +13,7 @@ As a passionate software engineer, I specialize in developing highly scalable, r
   </tr>
     <tr>
     <td>email</td>
-    <td>diogo103@gmail.com</td>
+    <td>diogosoares@drsoares.me</td>
   </tr>
   <tr>
     <td>phone</td>
