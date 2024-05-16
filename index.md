@@ -6,11 +6,11 @@ As a passionate software engineer, I specialize in developing highly scalable, r
 <table>
   <tr>
     <td>github</td>
-    <td><a href="[url](https://github.com/drsoares)">drsoares</a></td>
+    <td><a href="https://github.com/drsoares">drsoares</a></td>
   </tr>
     <tr>
     <td>linkedin</td>
-      <td><a href="[url](https://www.linkedin.com/in/drcsoares)">drcsoares</a></td>
+      <td><a href="https://www.linkedin.com/in/drcsoares">drcsoares</a></td>
   </tr>
     <tr>
     <td>email</td>
