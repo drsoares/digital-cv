@@ -1,5 +1,4 @@
 # Diogo Soares
-![Diogo](/assets/img/diogo.jpg)
 
 As a passionate software engineer, I specialize in developing highly scalable, resilient, and high-performant applications. With a focus on backend development, infra-automation, and observability, I thrive on tackling challenging tasks and am committed to continuous learning and growth. I'm excited about opportunities to contribute to innovative solutions and drive impactful results in dynamic environments.
 
