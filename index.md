@@ -2,8 +2,7 @@
 
 **Senior Software Engineer**
 
-Porto, Portugal | +351 916 752 957 | diogosoares@drsoares.me
-[github.com/drsoares](https://github.com/drsoares) | [linkedin.com/in/drcsoares](https://www.linkedin.com/in/drcsoares)
+Porto, Portugal | +351 916 752 957 | diogosoares@drsoares.me | [github.com/drsoares](https://github.com/drsoares) | [linkedin.com/in/drcsoares](https://www.linkedin.com/in/drcsoares)
 
 ---
 
