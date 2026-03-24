@@ -19,6 +19,10 @@ def escape_latex(text: str) -> str:
         ('}', r'\}'),
         ('~', r'\textasciitilde{}'),
         ('^', r'\textasciicircum{}'),
+        ('ã', r'\~{a}'),
+        ('Ã', r'\~{A}'),
+        ('ç', r'\c{c}'),
+        ('Ç', r'\c{C}'),
     ]
     for old, new in replacements:
         text = text.replace(old, new)
