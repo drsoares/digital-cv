@@ -1,87 +1,80 @@
 # Diogo Soares
 
-As a passionate software engineer, I specialize in developing highly scalable, resilient, and high-performant applications. With a focus on backend development, infra-automation, and observability, I thrive on tackling challenging tasks and am committed to continuous learning and growth. I'm excited about opportunities to contribute to innovative solutions and drive impactful results in dynamic environments.
+**Senior Software Engineer**
 
-<table>
-  <tr>
-    <td>github</td>
-    <td><a href="https://github.com/drsoares">drsoares</a></td>
-  </tr>
-    <tr>
-    <td>linkedin</td>
-      <td><a href="https://www.linkedin.com/in/drcsoares">drcsoares</a></td>
-  </tr>
-    <tr>
-    <td>email</td>
-    <td>diogosoares@drsoares.me</td>
-  </tr>
-  <tr>
-    <td>phone</td>
-    <td>+351 916752957</td>
-  </tr>
-  <tr>
-    <td>location</td>
-    <td>Porto, PT</td>
-  </tr>
-</table>
+Porto, Portugal | +351 916 752 957 | diogosoares@drsoares.me
+[github.com/drsoares](https://github.com/drsoares) | [linkedin.com/in/drcsoares](https://www.linkedin.com/in/drcsoares)
 
-## Education
+---
 
-### **Universidade de Aveiro** `2006 - 2012`
+## Profile
 
-Master in Computer Science Engineering and Telematics
+Software engineer with 13+ years of experience specialising in backend development, infrastructure automation, and observability. Proven track record of designing and delivering highly scalable, resilient, and high-performance applications across betting, e-commerce, and cloud-platform domains. Passionate about tackling complex technical challenges and driving measurable impact in fast-paced environments.
+
+---
 
 ## Experience
 
-### **Five9** `2023.01 - current`
+### Teya — *Senior Software Engineer* `Jan 2025 – Present`
 
-_Senior Software Engineer_<br>
-Currently working on a Platfrom Services team which has the responsability to develop Core Foundational Reusable Libraries for accessing GCP and other 3rd Party SaaS/resources.
-Technologies: Java17, SpringBoot, gradle, GCP(GKE, Datastore, BigQuery, PubSub).
+Part of the Product Shared Services team, building and maintaining services that power the customer onboarding journey. Contributed to a wide range of initiatives across multiple teams, gaining broad exposure to the company's domain and systems landscape.
 
-### **Wayfair** `2022.03 - 2023.01`
+**Technologies:** Java 25, Go, Spring Boot, Maven, PostgreSQL, Kafka, Avro, Docker, Kubernetes, AWS
 
-_Senior Software Engineer_<br>
-Joined Catalog Complex Products teams to develop a set of microservices to enable capabilities to manage complex parts and pre generated parts on the products catalog.
-Technologies: Java11, SpringBoot, SQL Server, GCP(GKE, BigQuery).
+### Five9 — *Senior Software Engineer* `Jan 2023 – Jan 2025`
 
-### **Blip.pt (Flutter Group)** `2019.11 - 2022.02`
+Delivered significant contributions to key non-core services, including large-scale refactoring of legacy codebases to improve maintainability and reliability.
 
-_Senior Site Reliability Engineer_<br>
-Joined a SRE (Site Reliability Engineering) Team to work on a RUM (Real User Monitoring) project, and then moved permanently into the team to work on many services to support observability for the entire company, aided most of the teams to integrate opentracing wiht jaeger, to enable another pilar of observability within the company.
-Technologies: Java8, Golang, Python, Javascript, Hbase, Cassandra, Openstack, GCP, OpenTSDB, Grafana, Jaeger.
+**Technologies:** Java 17, Spring Boot, Gradle, GCP (GKE, Datastore, BigQuery, Pub/Sub)
 
-### **Blip.pt (Flutter Group)** `2017.03 - 2019.11`
+### Wayfair — *Senior Software Engineer* `Mar 2022 – Jan 2023`
 
-_Senior Backend Developer_<br>
-Joined a Feeds Platforms team to develop a stream processing platform in order to ingest game incidents from several sports provided by several third parties. This included building microservices to interact with these third parties and send them to kafka stream and our storm topologies would pick them and digest them in order to update the prices on the web site with the lowest latency possible.
-Technologies: Java 8, Scala, Spring Maven, Apache Storm, Kafka, Cassandra, Zookeeper, RabbitMQ, Protobuf.
+Hired as a Java specialist to help migrate functionality out of a large PHP monolith into Java microservices, incrementally decoupling domains and improving scalability within the Catalog team.
 
-### **Blip.pt (Flutter Group)** `2015.01 - 2017.03`
+**Technologies:** Java 11, Spring Boot, SQL Server, GCP (GKE, BigQuery)
 
-_Backend Developer_<br>
-Joined the company as backend developer to start splitting larger services into more granular pieces.
-Technologies: Java7/8, Spring, Maven, Redis, Hazelcast, ActiveMQ, Kafka, MySQL, Couchbase.
+### Blip.pt (Flutter Group) — *Senior Site Reliability Engineer* `Nov 2019 – Feb 2022`
 
-### **grupo@work** `2013.12 - 2014.12`
+Built a Real User Monitoring (RUM) platform that gave the entire company visibility into page render times, page loads, and mobile request performance, broken down by device model and network conditions — enabling teams to identify and act on real user experience issues for the first time. Championed the adoption of distributed tracing by working hands-on with teams across the organisation to integrate OpenTracing with Jaeger, troubleshooting their service flows and pinpointing bottlenecks and opportunities for improvement.
 
-_Backend Developer_<br>
-Joined the company to work on a brand new project for the major cinema theater holding in Portugal. Project included building a brand new ticketing solution for many platforms (in person, mobile, web, etc...) and managing the bar inventory as well.
-Technologies: Java7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing.
+**Technologies:** Java 8, Go, Python, JavaScript, HBase, Cassandra, OpenStack, GCP, OpenTSDB, Grafana, Jaeger
 
-### **PT Inovação** `2013.02 - 2013.12`
+### Blip.pt (Flutter Group) — *Senior Backend Developer* `Mar 2017 – Nov 2019`
 
-_Junior Backend Developer_<br>
-Joined the company as a Junior Backend Developer to work on several products from the company, most of company customers were mobile telecomunications companies. 
-Technologies: Java 6, Scala, Maven, PlayFramework, Struts2, Jboss, Netty, Oracle 11g.
+Part of the team that re-architected the market management pipeline from a synchronous chain of services to an event-driven stream-processing platform. Ingested live game incidents and risk-management events from multiple feed providers via Kafka and Apache Storm topologies, reflecting changes in real-time on odds pricing and market lifecycle states (active, suspended, settled). The new architecture eliminated backpressure bottlenecks and enabled horizontal scaling to support a growing catalogue of sports, events, and markets without compromising end-to-end latency.
 
-## Courses
+**Technologies:** Java 8, Scala, Spring, Maven, Apache Storm, Kafka, Cassandra, ZooKeeper, RabbitMQ, Protobuf
 
-### [**Functional Programming Principles in Scala at Coursera**](https://www.coursera.org/account/accomplishments/certificate/SJX5MJ4MKL)
-### [**Kotlin for Java Developers at Coursera**](https://www.coursera.org/account/accomplishments/certificate/6ZN3PQY5UUGZ)
-### [**M101J: MongoDB for Java Developers at MongoDB, Inc**](https://university.mongodb.com/course_completion/9740179520cf4c129c25f6e63e94a285)
+### Blip.pt (Flutter Group) — *Backend Developer* `Jan 2015 – Mar 2017`
+
+Joined during a major platform modernisation effort, decomposing monolithic services into fine-grained microservices. Laid the groundwork for the event-driven architecture that would later replace the synchronous pipeline, introducing Kafka and distributed caching to improve throughput and resilience.
+
+**Technologies:** Java 7/8, Spring, Maven, Redis, Hazelcast, ActiveMQ, Kafka, MySQL, Couchbase
+
+### grupo@work — *Backend Developer* `Dec 2013 – Dec 2014`
+
+Built a greenfield ticketing and bar-inventory management solution for Portugal's largest cinema-theatre group, supporting in-person, mobile, and web channels.
+
+**Technologies:** Java 7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing
+
+### PT Inovação — *Junior Backend Developer* `Feb 2013 – Dec 2013`
+
+Contributed to multiple products serving mobile telecommunications clients, gaining experience across diverse Java frameworks and database technologies.
+
+**Technologies:** Java 6, Scala, Maven, Play Framework, Struts 2, JBoss, Netty, Oracle 11g
 
 ---
-<!-- ### Footer
 
-Last updated: June 2022 -->
+## Education
+
+### Universidade de Aveiro `2006 – 2012`
+
+Master's in Computer Science Engineering and Telematics
+
+---
+
+## Certifications & Courses
+
+- [Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/certificate/SJX5MJ4MKL) — Coursera
+- [Kotlin for Java Developers](https://www.coursera.org/account/accomplishments/certificate/6ZN3PQY5UUGZ) — Coursera
+- [M101J: MongoDB for Java Developers](https://university.mongodb.com/course_completion/9740179520cf4c129c25f6e63e94a285) — MongoDB, Inc.
