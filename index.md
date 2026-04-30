@@ -2,13 +2,13 @@
 
 **Senior Software Engineer**
 
-Porto, Portugal | +351 916 752 957 | diogosoares@drsoares.me | [github.com/drsoares](https://github.com/drsoares) | [linkedin.com/in/drcsoares](https://www.linkedin.com/in/drcsoares)
+Porto, Portugal | +351 916 752 957 | diogo103@gmail.com | [github.com/drsoares](https://github.com/drsoares) | [linkedin.com/in/drcsoares](https://www.linkedin.com/in/drcsoares)
 
 ---
 
 ## Profile
 
-Software engineer with 13+ years of experience specialising in backend development, infrastructure automation, and observability. Proven track record of designing and delivering highly scalable, resilient, and high-performance applications across betting, e-commerce, and cloud-platform domains. Passionate about tackling complex technical challenges and driving measurable impact in fast-paced environments.
+Senior backend engineer with 13+ years building distributed systems across regulated fintech, e-commerce, and one of the world's largest sports betting platforms. Specialised in event-driven architectures (Kafka, Storm), modernizing legacy systems into resilient microservices, and engineering for scale and reliability — from sub-second market pricing pipelines to RUM platforms ingesting ~100k samples/second. Hands-on across the full stack of production ownership: design, performance tuning, observability, and cross-team troubleshooting on Kubernetes-based AWS and GCP environments.
 
 ---
 
@@ -23,7 +23,7 @@ Regular participant in performance and chaos engineering Game Days, stress-testi
 Worked across multiple teams on platform-level initiatives, gaining broad exposure to the company's systems landscape and acting as a connector between domains.
 Built and evolved services in a heavily event-driven environment using Java, Go, Spring Boot, Kafka, and Avro on AWS-managed Kubernetes, with PostgreSQL as the primary store.
 
-**Tech:** Java 25, Go, Spring Boot, Maven, PostgreSQL, Kafka, Avro, Docker, Kubernetes, AWS
+Tech: Java 25, Go, Spring Boot, Maven, PostgreSQL, Kafka, Avro, Docker, Kubernetes, AWS
 
 ### Five9 — *Senior Software Engineer* `Jan 2023 – Jan 2025`
 
@@ -33,7 +33,7 @@ Led an end-to-end refactor of the provisioning tool, untangling a legacy codebas
 Turned ad-hoc per-customer setup into a repeatable, config-driven workflow, making onboarding new customers faster and safer.
 Owned the service end-to-end including production support, observability, and reliability of the provisioning pipeline across the GCP stack.
 
-**Tech:** Java 17, Spring Boot, Gradle, GCP (GKE, Datastore, BigQuery, Pub/Sub)
+Tech: Java 17, Spring Boot, Gradle, GCP (GKE, Datastore, BigQuery, Pub/Sub)
 
 ### Wayfair — *Senior Software Engineer* `Mar 2022 – Jan 2023`
 
@@ -42,7 +42,7 @@ Hired as a Java specialist to help extract product catalog and search/discovery 
 Key contributor to the design of new Java microservices owning product listing and search/discovery flows, applying strangler-fig patterns to incrementally cut traffic over from the PHP monolith without disrupting downstream consumers.
 Worked on a high-traffic e-commerce surface where catalog and search reliability directly impact customer-facing browsing and conversion.
 
-**Tech:** Java 11, Spring Boot, SQL Server, GCP (GKE, BigQuery)
+Tech: Java 11, Spring Boot, SQL Server, GCP (GKE, BigQuery)
 
 ### Blip.pt (Flutter Group) — *Senior Site Reliability Engineer* `Nov 2019 – Feb 2022`
 
@@ -53,7 +53,7 @@ Drove the company-wide adoption of distributed tracing with OpenTracing and Jaeg
 Contributed to i2, the company's internal IaC framework built on top of OpenStack on bare metal, helping evolve the framework used to provision and manage infrastructure across the platform.
 Built custom metric agents and acted as a go-to engineer for cross-team troubleshooting — diagnosing network and connectivity issues, performance bottlenecks, memory/CPU resource problems, and gaps in distributed traces across complex service flows.
 
-**Tech:** Java 8, Go, Python, JavaScript, HBase, Cassandra, OpenStack, GCP, OpenTSDB, Grafana, Jaeger
+Tech: Java 8, Go, Python, JavaScript, HBase, Cassandra, OpenStack, GCP, OpenTSDB, Grafana, Jaeger
 
 ### Blip.pt (Flutter Group) — *Backend Developer → Senior Backend Developer* `jan 2015 – Nov 2019`
 
@@ -64,19 +64,19 @@ Key contributor to the design of the next-generation market management pipeline,
 The new platform ingested live game incidents and risk-management events from 4 feed providers, reflecting changes in real-time on odds pricing and market lifecycle states (active, suspended, settled) across pre-match, live in-play, risk/trading, and settlement flows — with sub-second end-to-end latency.
 Eliminated backpressure bottlenecks and enabled horizontal scaling, with the architecture designed to handle millions of events per second as the catalogue of sports, events, and markets grew.
 
-**Tech:** Java 7/8, Scala, Spring, Maven, Apache Storm, Kafka, Cassandra, ZooKeeper, RabbitMQ, ActiveMQ, Redis, Hazelcast, Couchbase, MySQL, Protobuf
+Tech: Java 7/8, Scala, Spring, Maven, Apache Storm, Kafka, Cassandra, ZooKeeper, RabbitMQ, ActiveMQ, Redis, Hazelcast, Couchbase, MySQL, Protobuf
 
 ### grupo@work — *Backend Developer* `Dec 2013 – Dec 2014`
 
-Built a greenfield ticketing and bar-inventory management solution for Portugal's largest cinema-theatre group, supporting in-person, mobile, and web channels.
+Part of a small core team that built a greenfield ticketing and bar-inventory management solution for one of Portugal's largest cinema-theatre groups, supporting in-person, mobile, and web channels. Delivered to production and rolled out across multiple venues.
 
-**Tech:** Java 7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing
+Tech: Java 7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing
 
 ### PT Inovação — *Junior Backend Developer* `Feb 2013 – Dec 2013`
 
-Contributed to multiple products serving mobile telecommunications clients, gaining experience across diverse Java frameworks and database technologies.
+Contributed to multiple products serving mobile telecommunications clients, gaining early-career experience across diverse Java frameworks and database technologies.
 
-**Technologies:** Java 6, Scala, Maven, Play Framework, Struts 2, JBoss, Netty, Oracle 11g
+Tech: Java 6, Scala, Maven, Play Framework, Struts 2, JBoss, Netty, Oracle 11g
 
 ---
 
