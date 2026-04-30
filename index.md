@@ -16,45 +16,61 @@ Software engineer with 13+ years of experience specialising in backend developme
 
 ### Teya — *Senior Software Engineer* `Jan 2025 – Present`
 
-Part of the Product Shared Services team, building and maintaining services that power the customer onboarding journey. Contributed to a wide range of initiatives across multiple teams, gaining broad exposure to the company's domain and systems landscape.
+Senior engineer on the Product Shared Services team, delivering services that power the regulated customer onboarding journey across KYC, identity and document verification, AML/risk checks, merchant provisioning, and external integrations with banks, providers, and regulators.
 
-**Technologies:** Java 25, Go, Spring Boot, Maven, PostgreSQL, Kafka, Avro, Docker, Kubernetes, AWS
+Key contributor to the design and delivery of a new merchant/account provisioning service built from scratch, orchestrating downstream onboarding steps and external integrations under strict regulatory and auditability requirements.
+Regular participant in performance and chaos engineering Game Days, stress-testing services to identify breaking points, hardening monitoring and observability, and right-sizing infrastructure — including downgrading database tiers and tuning CPU and resource consumption to cut AWS spend without impacting reliability.
+Worked across multiple teams on platform-level initiatives, gaining broad exposure to the company's systems landscape and acting as a connector between domains.
+Built and evolved services in a heavily event-driven environment using Java, Go, Spring Boot, Kafka, and Avro on AWS-managed Kubernetes, with PostgreSQL as the primary store.
+
+**Tech:** Java 25, Go, Spring Boot, Maven, PostgreSQL, Kafka, Avro, Docker, Kubernetes, AWS
 
 ### Five9 — *Senior Software Engineer* `Jan 2023 – Jan 2025`
 
-Delivered significant contributions to key non-core services, including large-scale refactoring of legacy codebases to improve maintainability and reliability.
+Worked on an internal IaC-style platform tool that provisioned dedicated GCP infrastructure per customer — BigQuery tables, Pub/Sub topics, and Datastore instances — driven by config templates as part of the customer onboarding flow.
 
-**Technologies:** Java 17, Spring Boot, Gradle, GCP (GKE, Datastore, BigQuery, Pub/Sub)
+Led an end-to-end refactor of the provisioning tool, untangling a legacy codebase that had become a recurring source of incidents and a bottleneck for onboarding new customers — significantly reducing incident frequency and improving provisioning reliability and performance.
+Turned ad-hoc per-customer setup into a repeatable, config-driven workflow, making onboarding new customers faster and safer.
+Owned the service end-to-end including production support, observability, and reliability of the provisioning pipeline across the GCP stack.
+
+**Tech:** Java 17, Spring Boot, Gradle, GCP (GKE, Datastore, BigQuery, Pub/Sub)
 
 ### Wayfair — *Senior Software Engineer* `Mar 2022 – Jan 2023`
 
-Hired as a Java specialist to help migrate functionality out of a large PHP monolith into Java microservices, incrementally decoupling domains and improving scalability within the Catalog team.
+Hired as a Java specialist to help extract product catalog and search/discovery functionality out of a large PHP monolith into Java microservices, incrementally decoupling Catalog domains and improving scalability.
 
-**Technologies:** Java 11, Spring Boot, SQL Server, GCP (GKE, BigQuery)
+Key contributor to the design of new Java microservices owning product listing and search/discovery flows, applying strangler-fig patterns to incrementally cut traffic over from the PHP monolith without disrupting downstream consumers.
+Worked on a high-traffic e-commerce surface where catalog and search reliability directly impact customer-facing browsing and conversion.
+
+**Tech:** Java 11, Spring Boot, SQL Server, GCP (GKE, BigQuery)
 
 ### Blip.pt (Flutter Group) — *Senior Site Reliability Engineer* `Nov 2019 – Feb 2022`
 
-Built a Real User Monitoring (RUM) platform that gave the entire company visibility into page render times, page loads, and mobile request performance, broken down by device model and network conditions — enabling teams to identify and act on real user experience issues for the first time. Championed the adoption of distributed tracing by working hands-on with teams across the organisation to integrate OpenTracing with Jaeger, troubleshooting their service flows and pinpointing bottlenecks and opportunities for improvement.
+Part of the SRE team supporting one of the largest sports betting platforms in the world, focusing on observability, performance, and infrastructure tooling.
 
-**Technologies:** Java 8, Go, Python, JavaScript, HBase, Cassandra, OpenStack, GCP, OpenTSDB, Grafana, Jaeger
+Built a Real User Monitoring (RUM) platform from scratch, ingesting up to ~100k samples per second at peak, that gave the entire company first-time visibility into page render times, page loads, and mobile request performance — broken down by device model and network conditions — enabling product and engineering teams to act on real user experience issues.
+Drove the company-wide adoption of distributed tracing with OpenTracing and Jaeger, working hands-on with platform teams to instrument their services.
+Contributed to i2, the company's internal IaC framework built on top of OpenStack on bare metal, helping evolve the framework used to provision and manage infrastructure across the platform.
+Built custom metric agents and acted as a go-to engineer for cross-team troubleshooting — diagnosing network and connectivity issues, performance bottlenecks, memory/CPU resource problems, and gaps in distributed traces across complex service flows.
 
-### Blip.pt (Flutter Group) — *Senior Backend Developer* `Mar 2017 – Nov 2019`
+**Tech:** Java 8, Go, Python, JavaScript, HBase, Cassandra, OpenStack, GCP, OpenTSDB, Grafana, Jaeger
 
-Part of the team that re-architected the market management pipeline from a synchronous chain of services to an event-driven stream-processing platform. Ingested live game incidents and risk-management events from multiple feed providers via Kafka and Apache Storm topologies, reflecting changes in real-time on odds pricing and market lifecycle states (active, suspended, settled). The new architecture eliminated backpressure bottlenecks and enabled horizontal scaling to support a growing catalogue of sports, events, and markets without compromising end-to-end latency.
+### Blip.pt (Flutter Group) — *Backend Developer → Senior Backend Developer* `jan 2015 – Nov 2019`
 
-**Technologies:** Java 8, Scala, Spring, Maven, Apache Storm, Kafka, Cassandra, ZooKeeper, RabbitMQ, Protobuf
+Spent nearly 5 years on the backend platform powering one of the world's largest sports betting operations, progressing from Backend Developer to Senior Backend Developer through two major modernization phases.
 
-### Blip.pt (Flutter Group) — *Backend Developer* `Jan 2015 – Mar 2017`
+Joined during a major platform modernization effort, decomposing monolithic services into fine-grained microservices. Laid the groundwork for the event-driven architecture that would later replace the synchronous pipeline by introducing Kafka and distributed caching to improve throughput and resilience.
+Key contributor to the design of the next-generation market management pipeline, re-architecting it from a synchronous chain of services into an event-driven stream-processing platform built on Kafka and Apache Storm.
+The new platform ingested live game incidents and risk-management events from 4 feed providers, reflecting changes in real-time on odds pricing and market lifecycle states (active, suspended, settled) across pre-match, live in-play, risk/trading, and settlement flows — with sub-second end-to-end latency.
+Eliminated backpressure bottlenecks and enabled horizontal scaling, with the architecture designed to handle millions of events per second as the catalogue of sports, events, and markets grew.
 
-Joined during a major platform modernisation effort, decomposing monolithic services into fine-grained microservices. Laid the groundwork for the event-driven architecture that would later replace the synchronous pipeline, introducing Kafka and distributed caching to improve throughput and resilience.
-
-**Technologies:** Java 7/8, Spring, Maven, Redis, Hazelcast, ActiveMQ, Kafka, MySQL, Couchbase
+**Tech:** Java 7/8, Scala, Spring, Maven, Apache Storm, Kafka, Cassandra, ZooKeeper, RabbitMQ, ActiveMQ, Redis, Hazelcast, Couchbase, MySQL, Protobuf
 
 ### grupo@work — *Backend Developer* `Dec 2013 – Dec 2014`
 
 Built a greenfield ticketing and bar-inventory management solution for Portugal's largest cinema-theatre group, supporting in-person, mobile, and web channels.
 
-**Technologies:** Java 7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing
+**Tech:** Java 7, Maven, Spring, PostgreSQL, Apache Tapestry, Liquibase, SymmetricDS, Swing
 
 ### PT Inovação — *Junior Backend Developer* `Feb 2013 – Dec 2013`
 
