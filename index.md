@@ -72,6 +72,6 @@ Senior backend and platform engineer with 13+ years building distributed, event-
 2006 – 2012
 
 ## Certifications & Courses
-- Functional Programming Principles in Scala (Coursera)
-- Kotlin for Java Developers (Coursera)
-- MongoDB for Java Developers (MongoDB)
+- [Functional Programming Principles in Scala (Coursera)](https://www.coursera.org/account/accomplishments/certificate/SJX5MJ4MKL)
+- [Kotlin for Java Developers (Coursera)](https://www.coursera.org/account/accomplishments/certificate/6ZN3PQY5UUGZ)
+- [MongoDB for Java Developers (MongoDB)](https://university.mongodb.com/course_completion/9740179520cf4c129c25f6e63e94a285)
