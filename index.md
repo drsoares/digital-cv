@@ -6,7 +6,7 @@ LinkedIn: linkedin.com/in/drcsoares • GitHub: github.com/drsoares
 Senior backend and platform engineer with 13+ years building distributed, event-driven systems across fintech, SaaS, e-commerce, and high-scale betting platforms. Expert in JVM langaguages(Java/Kotlin) and Go, with deep experience modernizing legacy architectures, improving reliability, optimizing infrastructure costs, and delivering resilient systems under regulatory and operational complexity.
 
 ## Core Skills
-**Languages:** Java, Go, Scala, Python  
+**Languages:** Java/Kotlin, Go, Scala, Python  
 **Architecture:** Distributed systems, microservices, event-driven architecture, stream processing  
 **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Docker, OpenStack  
 **Data & Messaging:** Kafka, PostgreSQL, Cassandra, BigQuery, Pub/Sub, Redis  
