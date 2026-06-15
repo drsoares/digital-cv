@@ -3,7 +3,7 @@ Porto, Portugal • +351 916 752 957 • diogo103@gmail.com
 LinkedIn: linkedin.com/in/drcsoares • GitHub: github.com/drsoares
 
 ## Senior Backend / Platform Engineer
-Senior backend and platform engineer with 13+ years building distributed, event-driven systems across fintech, SaaS, e-commerce, and high-scale betting platforms. Expert in Java, Go, Kafka, Kubernetes, AWS, and GCP, with deep experience modernizing legacy architectures, improving reliability, optimizing infrastructure costs, and delivering resilient systems under regulatory and operational complexity.
+Senior backend and platform engineer with 13+ years building distributed, event-driven systems across fintech, SaaS, e-commerce, and high-scale betting platforms. Expert in JVM langaguages(Java/Kotlin) and Go, with deep experience modernizing legacy architectures, improving reliability, optimizing infrastructure costs, and delivering resilient systems under regulatory and operational complexity.
 
 ## Core Skills
 **Languages:** Java, Go, Scala, Python  
